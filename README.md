@@ -1,6 +1,6 @@
 this project is intended to develop an opensource python telegram bot for daily airing animes, some features are still under development feel free to optimise / update the code as your requirements .
-
-Daily Airing Anime Bot
+**__Working video__** [video link](https://youtu.be/nBx9V1-iKW4).
+#Daily Airing Anime Bot
 Welcome to the Daily Airing Anime Bot! This bot provides daily updates on currently airing anime series directly to your Telegram.
 
 Features
